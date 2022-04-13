@@ -17,6 +17,7 @@
 		E64C88CE27F3398D007B68E1 /* ArtBookTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E64C88CD27F3398D007B68E1 /* ArtBookTests.swift */; };
 		E64C88D827F3398D007B68E1 /* ArtBookUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E64C88D727F3398D007B68E1 /* ArtBookUITests.swift */; };
 		E64C88DA27F3398D007B68E1 /* ArtBookUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E64C88D927F3398D007B68E1 /* ArtBookUITestsLaunchTests.swift */; };
+		E64C88E727F340E1007B68E1 /* DetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E64C88E627F340E1007B68E1 /* DetailsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		E64C88D327F3398D007B68E1 /* ArtBookUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ArtBookUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E64C88D727F3398D007B68E1 /* ArtBookUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArtBookUITests.swift; sourceTree = "<group>"; };
 		E64C88D927F3398D007B68E1 /* ArtBookUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArtBookUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		E64C88E627F340E1007B68E1 /* DetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				E64C88B327F3398B007B68E1 /* AppDelegate.swift */,
 				E64C88B527F3398B007B68E1 /* SceneDelegate.swift */,
 				E64C88B727F3398B007B68E1 /* ViewController.swift */,
+				E64C88E627F340E1007B68E1 /* DetailsViewController.swift */,
 				E64C88B927F3398B007B68E1 /* Main.storyboard */,
 				E64C88BF27F3398D007B68E1 /* Assets.xcassets */,
 				E64C88C127F3398D007B68E1 /* LaunchScreen.storyboard */,
@@ -265,6 +268,7 @@
 				E64C88B427F3398B007B68E1 /* AppDelegate.swift in Sources */,
 				E64C88BE27F3398B007B68E1 /* ArtBook.xcdatamodeld in Sources */,
 				E64C88B627F3398B007B68E1 /* SceneDelegate.swift in Sources */,
+				E64C88E727F340E1007B68E1 /* DetailsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
